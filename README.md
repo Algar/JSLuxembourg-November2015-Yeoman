@@ -1,6 +1,8 @@
 Yeoman - Lightning Talk
 =======================
 
+Live slideshow [available here](http://bit.ly/1GLbMXP).
+
 [Yeoman](http://yeoman.io/) is the web's scaffolding tool for modern webapps.
 
 These slides were used along with two tech. demos as an introduction to Yeoman
